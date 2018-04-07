@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class DNAStrandTester{
     public static void main(String[] args){
         System.out.println("[Test1] DNA: ATTGC\nOutput: " + DNAStrand.makeComplement("ATTGC") + "\nExpected: TAACG\n");

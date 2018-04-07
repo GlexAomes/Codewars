@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class ReverseStringTester{
     public static void main(String[] args){
         System.out.println("[Test1] Input: world\nOutput: " + ReverseString.reverse("world") + "\nExpected: dlrow\n");
