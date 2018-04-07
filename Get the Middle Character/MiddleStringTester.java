@@ -8,8 +8,5 @@ public class MiddleStringTester{
         System.out.println("[Test6] Word: bruxism\nOutput: " + MiddleString.getMiddle("bruxism") + "\nExpected: x\n");
         System.out.println("[Test7] Word: dabble\nOutput: " + MiddleString.getMiddle("dabble") + "\nExpected: bb\n");
         System.out.println("[Test8] Word: good\nOutput: " + MiddleString.getMiddle("good") + "\nExpected: oo\n");
-        
-
-
     }
 }
